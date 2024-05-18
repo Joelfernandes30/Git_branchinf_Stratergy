@@ -3,4 +3,13 @@
 #
 #Addition
 #
+#Subtraction
 #
+#Mulitplication
+#
+#Division
+#
+#
+#Percentage
+
+
