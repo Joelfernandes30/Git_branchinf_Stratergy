@@ -3,4 +3,8 @@
 #
 #Addition
 #
+#Subtraction
 #
+#Mulitplication
+#
+#Division
